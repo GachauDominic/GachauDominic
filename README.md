@@ -14,15 +14,15 @@
 <p align="left">💼 About me<br>I am a full-stack developer specializing in Node.js, Express, TypeScript, and React, with a strong focus on building scalable, reliable, and production-ready applications. I develop RESTful APIs, work with SQL and NoSQL databases (including PostgreSQL), and design systems that are efficient and maintainable.<br><br>I take a quality-first approach to development, using Cypress and Jest for automated testing and Postman for API validation. I also perform performance testing with K6 and Grafana, alongside manual exploratory testing to ensure applications are robust and user-focused.<br><br>I’m passionate about building software that works seamlessly in real-world environments and continuously improving at the intersection of full-stack engineering and quality assurance.</p>
 
 ###
-
+<br/>
 <h2 align="left">🎯 Core Focus Areas</h2>
 
 ###
 
 <p align="left">🏗️ Software Engineering (Full Stack)<br>✅ Quality Assurance & Quality Engineering<br>🤖 Test Automation (UI & API) with Cypress & Jest<br>💻 Node.js, React, SQL/NoSQL</p>
 
-<br/>
 ###
+<br/>
 
 <h2 align="left">I code with</h2>
 
@@ -55,9 +55,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GachauDominic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GachauDominic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GachauDominic&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GachauDominic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GachauDominic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=GachauDominic&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
 
 <br/>
