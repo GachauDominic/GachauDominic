@@ -3,6 +3,7 @@
 ###
 
 <h3 align="center">Software Engineer | QA/QE Analyst</h3>
+<br/>
 
 ###
 
@@ -20,6 +21,7 @@
 
 <p align="left">🏗️ Software Engineering (Full Stack)<br>✅ Quality Assurance & Quality Engineering<br>🤖 Test Automation (UI & API) with Cypress & Jest<br>💻 Node.js, React, SQL/NoSQL</p>
 
+<br/>
 ###
 
 <h2 align="left">I code with</h2>
@@ -48,6 +50,8 @@
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
 </div>
 
+<br/>
+
 ###
 
 <div align="center">
@@ -55,6 +59,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=GachauDominic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=GachauDominic&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
 </div>
+
+<br/>
 
 ###
 
