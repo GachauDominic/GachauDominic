@@ -11,7 +11,13 @@
 
 ###
 
-<p align="left">💼 About me<br>I am a full-stack developer specializing in Node.js, Express, TypeScript, and React, with a strong focus on building scalable, reliable, and production-ready applications. I develop RESTful APIs, work with SQL and NoSQL databases (including PostgreSQL), and design systems that are efficient and maintainable.<br><br>I take a quality-first approach to development, using Cypress and Jest for automated testing and Postman for API validation. I also perform performance testing with K6 and Grafana, alongside manual exploratory testing to ensure applications are robust and user-focused.<br><br>I’m passionate about building software that works seamlessly in real-world environments and continuously improving at the intersection of full-stack engineering and quality assurance.</p>
+<p align="left">💼 About me<br>I am a Quality-Focused Software Engineer with hands-on experience in full-stack development using Node.js, Express, TypeScript, and React. My development background enables me to understand application architecture, identify potential failure points, and collaborate effectively with engineering teams to deliver reliable, high-quality software.
+
+I have practical experience in manual testing, API testing, database validation, and end-to-end testing. I use Postman to validate RESTful APIs, work with SQL and PostgreSQL to verify data integrity, and leverage tools such as Cypress and Jest to create automated test suites that improve software reliability and regression coverage.
+
+In addition, I perform exploratory testing, performance testing using K6 and Grafana, and participate in Agile/Scrum development processes to ensure quality is integrated throughout the software development lifecycle. I am passionate about building robust, scalable applications and continuously improving my expertise in Quality Assurance, Quality Engineering, and test automation.
+
+My goal is to contribute to teams that value quality, continuous improvement, and the delivery of exceptional user experiences through well-tested, production-ready software.</p>
 
 ###
 <br/>
