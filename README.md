@@ -15,7 +15,7 @@
 
 I have practical experience in manual testing, API testing, database validation, and end-to-end testing. I use Postman to validate RESTful APIs, work with SQL and PostgreSQL to verify data integrity, and leverage tools such as Cypress and Jest to create automated test suites that improve software reliability and regression coverage.
 
-In addition, I perform exploratory testing, performance testing using K6 and Grafana, and participate in Agile/Scrum development processes to ensure quality is integrated throughout the software development lifecycle. I am passionate about building robust, scalable applications and continuously improving my expertise in Quality Assurance, Quality Engineering, and test automation.
+In addition, I perform exploratory testing, performance testing using K6, and participate in SDLC, Agile/Scrum development processes to ensure quality is integrated throughout the software development lifecycle. I am passionate about building robust, scalable applications and continuously improving my expertise in Quality Assurance, Quality Engineering, and test automation.
 
 My goal is to contribute to teams that value quality, continuous improvement, and the delivery of exceptional user experiences through well-tested, production-ready software.</p>
 
