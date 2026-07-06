@@ -25,7 +25,7 @@ My goal is to contribute to teams that value quality, continuous improvement, an
 
 ###
 
-<p align="left">🏗️ Software Engineering (Full Stack)<br>✅ Quality Assurance & Quality Engineering<br>🤖 Test Automation (UI & API) with Cypress & Jest<br>💻 Node.js, React, SQL</p>
+<p align="left">🏗️ Software Engineering (Full Stack)<br>✅ Quality Assurance & Quality Engineering<br>🤖 Test Automation (UI & API) with Cypress & Jest<br>💻 Node.js, Express, REST APIs, SQL, React</p>
 
 ###
 <br/>
