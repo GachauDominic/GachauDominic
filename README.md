@@ -20,6 +20,8 @@ In addition, I perform exploratory testing, performance testing using K6, and pa
 
 My goal is to contribute to teams that value quality, continuous improvement, and the delivery of exceptional user experiences through well-tested, production-ready software.</p>
 
+Tagline: "Reliable code, tested well, shipped faster." 🚀
+
 ###
 <br/>
 <h2 align="left">🎯 Core Focus Areas</h2>
