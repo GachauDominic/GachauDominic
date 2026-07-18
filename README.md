@@ -7,7 +7,6 @@
 
 ###
 
-
 ## 💼 About me
 
 <img align="right" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
@@ -33,17 +32,12 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 ###
 <br/>
 
-## Currently working on
-
-- Building and iterating on **accomodation-BnB** (full stack, TypeScript) 🏨
-- Exploring AI governance concepts through a Python project (Ujima-Ai-Governance) 🤖
-
-If you'd like to collaborate or discuss QA best practices, feel free to reach out!
-
+###
 ## Skills & Technologies
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,expressjs,react,css,js,html,git,github,vercel,vscode,npm,pnpm,cypress,jest&perline=8)](https://skillicons.dev)
 
+###
 ## Top Projects
 
 1. [accomodation-BnB](https://github.com/GachauDominic/accomodation-BnB) ⭐
@@ -68,6 +62,26 @@ If you'd like to collaborate or discuss QA best practices, feel free to reach ou
 
 (Repositories are listed from the user's account.)
 
+###
+## Currently working on
+
+- Building and iterating on **accomodation-BnB** (full stack, TypeScript) 🏨
+- Exploring AI governance concepts through a Python project (Ujima-Ai-Governance) 🤖
+
+If you'd like to collaborate or discuss QA best practices, feel free to reach out!
+
+
+###
+<br />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GachauDominic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=GachauDominic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=GachauDominic&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
+</div>
+
+<br/>
+
+###
 ## Latest Blog Posts ✍️
 
 - Personal site / blog: https://dominicmaina.vercel.app/
