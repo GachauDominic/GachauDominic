@@ -1,17 +1,18 @@
-<h1 align="left">Hey 👋 What's up? I'm Dominic Gachau</h1>
+<h1 align="center">Hey 👋 What's up? I'm Dominic Gachau</h1>
 
 ###
 
-<h3 align="center">Software Engineer | QA/QE Analyst</h3>
+<h3 align="center">Software Dev | QA/QE Engineer </h3>
 <br/>
 
 ###
 
-<img align="right" height="160" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 
-###
+## 💼 About me
 
-<p align="left">💼 About me<br>I am a Quality-Focused Software Engineer with hands-on experience in full-stack development using Node.js, Express, TypeScript, and React. My development background enables me to understand application architecture, identify potential failure points, and collaborate effectively with engineering teams to deliver reliable, high-quality software.
+<img align="right" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
+
+<p align="left"><br>I am a Quality-Focused Software Engineer with hands-on experience in full-stack development using Node.js, Express, TypeScript, and React. My development background enables me to understand application architecture, identify potential failure points, and collaborate effectively with engineering teams to deliver reliable, high-quality software.
 
 I have practical experience in manual testing, API testing, database validation, and end-to-end testing. I use Postman to validate RESTful APIs, work with SQL and PostgreSQL to verify data integrity, and leverage tools such as Cypress and Jest to create automated test suites that improve software reliability and regression coverage.
 
@@ -30,50 +31,62 @@ My goal is to contribute to teams that value quality, continuous improvement, an
 ###
 <br/>
 
-<h2 align="left">I code with</h2>
+## Currently working on
 
-###
+- Building and iterating on **accomodation-BnB** (full stack, TypeScript) 🏨
+- Exploring AI governance concepts through a Python project (Ujima-Ai-Governance) 🤖
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="typescript logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="35" alt="jest logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" alt="express logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" alt="nodejs logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postman" height="35" alt="postman logo"  />
-  <img width="10" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="35" alt="html5 logo"  />
-</div>
+If you'd like to collaborate or discuss QA best practices, feel free to reach out!
 
-<br/>
+## Skills & Technologies
 
-###
+[![My Skills](https://skillicons.dev/icons?i=ts,nodejs,expressjs,react,css,js,html,git,github,vercel,vscode,npm,pnpm,cypress,jest&perline=8)](https://skillicons.dev)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GachauDominic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=GachauDominic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=GachauDominic&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
-</div>
+## Top Projects
 
-<br/>
+1. [accomodation-BnB](https://github.com/GachauDominic/accomodation-BnB) ⭐
+   - Description: Full‑stack accommodation / BnB project (backend + frontend) built with TypeScript.
+   - Language: TypeScript | Forks: 0 | Open issues: 0
 
-###
+2. [todo-client](https://github.com/GachauDominic/todo-client) 🔗 https://todo-client-iota-ten.vercel.app
+   - Description: A clone Frontend client for a Todo application (TypeScript). Hosted on Vercel.
+   - Language: TypeScript | Forks: 0 | Open issues: 0
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/dominic-maina-2347652b7/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+3. [todo-api](https://github.com/GachauDominic/todo-api)
+   - Description: A clone API for the Todo application (TypeScript/Node.js).
+   - Language: TypeScript | Forks: 0 | Open issues: 0
+
+4. [Ujima-Ai-Governance](https://github.com/GachauDominic/Ujima-Ai-Governance)
+   - Description: Python project focused on AI governance experiments and tooling.
+   - Language: Python | Forks: 0 | Open issues: 0
+
+5. [Loan-App-API](https://github.com/GachauDominic/Loan-App-API)
+   - Description: Loan application API built with TypeScript.
+   - Language: TypeScript | Forks: 0 | Open issues: 0
+
+(Repositories are listed from the user's account.)
+
+## Latest Blog Posts ✍️
+
+- Personal site / blog: https://dominicmaina.vercel.app/
+
+Check the site above for articles, case studies or a portfolio.
+
+## Connect with Me 🔗
+
+- 🧑‍💻 GitHub: https://github.com/GachauDominic
+- 🌐 Website: https://dominicmaina.vercel.app/
+- 💼 LinkedIn: https://www.linkedin.com/in/dominic-maina-2347652b7/  
+
+Badges / Quick links:
+
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominic%20Maina-blue?style=for-the-badge&logo=linkedin)
+- ![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen?style=for-the-badge&logo=vercel)
+
+Feel free to open an issue, start a discussion, or connect on LinkedIn — I welcome collaborations, contract work, and conversations about testing and scalable web architectures. 🙌
+
+## Certifications
+
+- [Certification Name](link-to-certificate) - Issuing organization, Year
 
 ###
