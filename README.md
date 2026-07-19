@@ -38,31 +38,6 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 [![My Skills](https://skillicons.dev/icons?i=ts,nodejs,expressjs,react,css,js,html,git,github,vercel,vscode,npm,pnpm,cypress,jest&perline=8)](https://skillicons.dev)
 
 ###
-## Top Projects
-
-1. [accomodation-BnB](https://github.com/GachauDominic/accomodation-BnB) ⭐
-   - Description: Full‑stack accommodation / BnB project (backend + frontend) built with TypeScript.
-   - Language: TypeScript | Forks: 0 | Open issues: 0
-
-2. [todo-client](https://github.com/GachauDominic/todo-client) 🔗 https://todo-client-iota-ten.vercel.app
-   - Description: A clone Frontend client for a Todo application (TypeScript). Hosted on Vercel.
-   - Language: TypeScript | Forks: 0 | Open issues: 0
-
-3. [todo-api](https://github.com/GachauDominic/todo-api)
-   - Description: A clone API for the Todo application (TypeScript/Node.js).
-   - Language: TypeScript | Forks: 0 | Open issues: 0
-
-4. [Ujima-Ai-Governance](https://github.com/GachauDominic/Ujima-Ai-Governance)
-   - Description: Python project focused on AI governance experiments and tooling.
-   - Language: Python | Forks: 0 | Open issues: 0
-
-5. [Loan-App-API](https://github.com/GachauDominic/Loan-App-API)
-   - Description: Loan application API built with TypeScript.
-   - Language: TypeScript | Forks: 0 | Open issues: 0
-
-(Repositories are listed from the user's account.)
-
-###
 ## Currently working on
 
 - Building and iterating on **accomodation-BnB** (full stack, TypeScript) 🏨
@@ -91,16 +66,17 @@ Badges / Quick links:
 
 Feel free to open an issue, start a discussion, or connect on LinkedIn — I welcome collaborations, contract work, and conversations about testing and scalable web architectures. 🙌
 
-## Certifications
+
+<!-- ## Certifications
 
 - [Certification Name](link-to-certificate) - Issuing organization, Year
-
+-->
 ###
 
-<!-- <br />
+<br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GachauDominic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=GachauDominic&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=GachauDominic&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="170" alt="streak graph"  />
 </div>
-<br/> -->
+<br/>
