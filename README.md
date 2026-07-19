@@ -72,7 +72,6 @@ Feel free to open an issue, start a discussion, or connect on LinkedIn — I wel
 - [Certification Name](link-to-certificate) - Issuing organization, Year
 -->
 ###
-
 <br />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GachauDominic&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="155" alt="languages graph"  />
