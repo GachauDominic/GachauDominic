@@ -11,15 +11,23 @@
 
 <img align="right" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
 
-<p align="left"><br>I am a Quality-Focused Software Engineer with hands-on experience in full-stack development using Node.js, Express, TypeScript, and React. My development background enables me to understand application architecture, identify potential failure points, and collaborate effectively with engineering teams to deliver reliable, high-quality software.
+<p align="left"><br>I am a Quality-Focused Software Engineer with hands-on experience in Back-End Web development using Node.js, Express, TypeScript & Drizzle ORM. My development background enables me to understand application architecture, identify potential failure points, and collaborate effectively with engineering teams to deliver reliable, high-quality software.
 
 I have practical experience in manual testing, API testing, database validation, and end-to-end testing. I use Postman to validate RESTful APIs, work with SQL and PostgreSQL to verify data integrity, and leverage tools such as Cypress and Jest to create automated test suites that improve software reliability and regression coverage.
 
 In addition, I perform exploratory testing, performance testing using K6, and participate in SDLC, Agile/Scrum development processes to ensure quality is integrated throughout the software development lifecycle. I am passionate about building robust, scalable applications and continuously improving my expertise in Quality Assurance, Quality Engineering, and test automation.
 
-My goal is to contribute to teams that value quality, continuous improvement, and the delivery of exceptional user experiences through well-tested, production-ready software.</p>
+My goal is to contribute to teams that value quality, continuous improvement, and the delivery of exceptional user experiences through well-tested, production-ready software. </p>
 
 Tagline: "Reliable code, tested well, shipped faster." 🚀
+
+###
+<br />
+
+###
+## 🌱 I’m currently learning
+<p> I’m actively exploring frontend frameworks, with a strong focus on <strong>React</strong> to expand my skills beyond backend development. My goal is to bridge the gap between server-side logic and dynamic user interfaces, creating fullstack applications that feel seamless and intuitive. Through hands-on projects, I’m learning how to design interactive components, manage state effectively, and connect APIs to deliver real-world functionality. This journey is not just about mastering React—it’s about building solutions that empower communities, learners, and everyday users with accessible digital tools. By combining my backend expertise with modern frontend practices, I’m preparing to craft applications that are both technically robust and engaging to use.
+</p>
 
 ###
 <br/>
@@ -27,7 +35,7 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 
 ###
 
-<p align="left">🏗️ Software Engineering (Full Stack)<br>✅ Quality Assurance & Quality Engineering<br>🤖 Test Automation (UI & API) with Cypress & Jest<br>💻 Node.js, Express, REST APIs, SQL, React</p>
+<p align="left">🏗️ Back-End Web Development (NodeJS, Express) <br>✅ Quality Assurance & Quality Engineering <br> 🤖 Test Automation (UI || API || Performance) with Cypress & Jest & K6 <br>💻 Node.js, Express, REST APIs, SQL, Relational Databases </p>
 
 ###
 <br/>
@@ -36,6 +44,8 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+###
+<br />
 
 ###
 ## Currently working on
@@ -44,7 +54,8 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 - Exploring AI governance concepts through a Python project (Ujima-Ai-Governance) 🤖
 
 If you'd like to collaborate or discuss QA best practices, feel free to reach out!
-
+###
+<br />
 
 ###
 ## ✍️ Latest Blog Posts 
@@ -52,20 +63,24 @@ If you'd like to collaborate or discuss QA best practices, feel free to reach ou
 - Personal site / blog: https://dominicmaina.vercel.app/
 
 Check the site above for articles, case studies or a portfolio.
+###
+<br />
 
+###
 ## 🔗 Connect with Me 
 
 - 🧑‍💻 GitHub: https://github.com/GachauDominic
 - 🌐 Website: https://dominicmaina.vercel.app/
 - 💼 LinkedIn: https://www.linkedin.com/in/dominic-maina-2347652b7/  
-
+<br />
 Badges / Quick links:
 
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-Dominic%20Maina-blue?style=for-the-badge&logo=linkedin)
 - ![Website](https://img.shields.io/badge/Website-Portfolio-brightgreen?style=for-the-badge&logo=vercel)
 
 Feel free to open an issue, start a discussion, or connect on LinkedIn — I welcome collaborations, contract work, and conversations about testing and scalable web architectures. 🙌
-
+###
+<br />
 
 <!-- ## Certifications
 
