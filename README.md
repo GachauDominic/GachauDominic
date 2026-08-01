@@ -89,7 +89,7 @@ Feel free to open an issue, start a discussion, or connect on LinkedIn — I wel
 
 ###
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=GachauDominic&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=GachauDominic&theme=react&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=GachauDominic&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api?username=GachauDominic&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=GachauDominic&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=GachauDominic&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
