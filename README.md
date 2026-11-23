@@ -9,10 +9,10 @@
 
 ## 💼 About me
 
-<img align="right" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  />
+ <!-- <img align="right" height="180" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif"  /> -->
 
-<p align="left"><br>I am a Quality-Focused Software Engineer with hands-on experience in Back-End Web development using Node.js, Express, TypeScript & Drizzle ORM. My development background enables me to understand application architecture, identify potential failure points, and collaborate effectively with engineering teams to deliver reliable, high-quality software.
-
+<p align="left"><br>I am a Quality-Focused full-stack developer with a strong backend focus. I build web applications with Node.js, Express, TypeScript, and SQL databases such as PostgreSQL, with attention to clean APIs, maintainable architecture, and reliable behavior.
+  
 I have practical experience in manual testing, API testing, database validation, and end-to-end testing. I use Postman to validate RESTful APIs, work with SQL and PostgreSQL to verify data integrity, and leverage tools such as Cypress and Jest to create automated test suites that improve software reliability and regression coverage.
 
 In addition, I perform exploratory testing, performance testing using K6, and participate in SDLC, Agile/Scrum development processes to ensure quality is integrated throughout the software development lifecycle. I am passionate about building robust, scalable applications and continuously improving my expertise in Quality Assurance, Quality Engineering, and test automation.
@@ -26,7 +26,9 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 
 ###
 ## 🌱 I’m currently learning
-<p> I’m actively exploring frontend frameworks, with a strong focus on <strong>React</strong> to expand my skills beyond backend development. My goal is to bridge the gap between server-side logic and dynamic user interfaces, creating fullstack applications that feel seamless and intuitive. Through hands-on projects, I’m learning how to design interactive components, manage state effectively, and connect APIs to deliver real-world functionality. This journey is not just about mastering React—it’s about building solutions that empower communities, learners, and everyday users with accessible digital tools. By combining my backend expertise with modern frontend practices, I’m preparing to craft applications that are both technically robust and engaging to use.
+<p>   - NestJS: structuring larger back-ends with cleaner architecture and maintainability while expanding my back-end skills through its broader ecosystem, including modular architecture, dependency injection, authentication, data access, GraphQL, microservices, and event-driven systems.
+
+  - Docker, cloud concepts and DevOps: making apps easier to package, ship and run reliably.
 </p>
 
 ###
