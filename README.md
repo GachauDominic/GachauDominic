@@ -17,6 +17,8 @@ I have practical experience in manual testing, API testing, database validation,
 
 In addition, I perform exploratory testing, performance testing using K6, and participate in SDLC, Agile/Scrum development processes to ensure quality is integrated throughout the software development lifecycle. I am passionate about building robust, scalable applications and continuously improving my expertise in Quality Assurance, Quality Engineering, and test automation.
 
+I’m also trained in AI, AI governance, prompt engineering, and AI automation. I’m interested in using AI to improve workflows and build useful features while keeping security, responsible use, and clear guardrails in view.
+
 My goal is to contribute to teams that value quality, continuous improvement, and the delivery of exceptional user experiences through well-tested, production-ready software. </p>
 
 Tagline: "Reliable code, tested well, shipped faster." 🚀
@@ -26,9 +28,11 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 
 ###
 ## 🌱 I’m currently learning
-<p>   - NestJS: structuring larger back-ends with cleaner architecture and maintainability while expanding my back-end skills through its broader ecosystem, including modular architecture, dependency injection, authentication, data access, GraphQL, microservices, and event-driven systems.
+<p>   
+ 
+ - NestJS: structuring larger back-ends with cleaner architecture and maintainability while expanding my back-end skills through its broader ecosystem, including modular architecture, dependency injection, authentication, data access, GraphQL, microservices, and event-driven systems.
 
-  - Docker, cloud concepts and DevOps: making apps easier to package, ship and run reliably.
+ - Docker, cloud concepts and DevOps: making apps easier to package, ship and run reliably.
 </p>
 
 ###
@@ -53,7 +57,6 @@ Tagline: "Reliable code, tested well, shipped faster." 🚀
 ## Currently working on
 
 - Building and iterating on **accomodation-BnB** (full stack, TypeScript) 🏨
-- Exploring AI governance concepts through a Python project (Ujima-Ai-Governance) 🤖
 
 If you'd like to collaborate or discuss QA best practices, feel free to reach out!
 ###
